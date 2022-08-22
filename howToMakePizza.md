@@ -1,6 +1,6 @@
 # Pasos para realizar una Pizza 🍕
 
-![Pizza,imagen de pizza](https://raw.github.com/davidorellana98/ada-git-colaborativo/main/images/pizza.png)
+![Pizza,imagen de pizza](https://raw.github.com/davidorellana98/ada-git-colaborativo/luis-orellana/images/pizza.png)
 
 ### Higiene Personal
 
