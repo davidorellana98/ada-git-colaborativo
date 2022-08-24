@@ -18,3 +18,11 @@
 7. Esperar aproximadamente unos 20 minutos.
 8. Sacar la pizza del horno y recortar la pizza.
 9. Entregar la pizza.
+
+### Las mejores especias para pizza son:
+* Orégano
+* La mejorana
+* El tomillo
+* El romero
+* La ajedrea
+* El ají
